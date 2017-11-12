@@ -1,7 +1,7 @@
 # Bet api
 Olybet testinė užduotis
 
-Aplikacija sukurta naudojant Lumen framework
+Aplikacija sukurta naudojant Lumen framework.
 Aplikacija pasiekiama darant post metodą localhost:8000/bet/api jei paleisite pvz.: php -S localhost:8000 -t public
 Post metodas daromas perduodant json data.
 Duomenų bazių lentelės sukuriamos per: php artisan migrate
